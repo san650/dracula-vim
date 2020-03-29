@@ -150,7 +150,7 @@ call s:h('DraculaSelection', s:none, s:selection)
 call s:h('DraculaSubtle', s:subtle)
 
 call s:h('DraculaCyan', s:cyan)
-call s:h('DraculaCyanItalic', s:cyan, s:none, [s:attrs.italic])
+call s:h('DraculaCyanItalic', s:cyan)
 
 call s:h('DraculaGreen', s:green)
 call s:h('DraculaGreenBold', s:green, s:none, [s:attrs.bold])
